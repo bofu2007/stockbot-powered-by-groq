@@ -19,7 +19,7 @@ async function UserOrLogin() {
         {/* <IconGroq className="size-6 mr-2 dark:hidden" />
           <IconGroq className="hidden size-6 mr-2 dark:block" /> */}
         <Image
-          src="/微信图片_20240909055441.png"
+          src="/微信图片_20240814161954.png"
           alt="Smarter Logo"
           width={100}
           height={30}
