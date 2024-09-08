@@ -34,23 +34,23 @@ export function ChatPanel({
   const exampleMessages = [
     {
       heading: 'What is the price',
-      subheading: 'of Apple Inc.?',
-      message: 'What is the price of Apple stock?'
+      subheading: 'of Bitcoin?',
+      message: 'What is the price of Bitcoin?'
     },
     {
-      heading: 'Show me a stock chart',
-      subheading: 'for $GOOGL',
-      message: 'Show me a stock chart for $GOOGL'
+      heading: 'Show me a chart',
+      subheading: 'for BTC',
+      message: 'Show me a chart for BTC'
     },
     {
       heading: 'What are some recent',
-      subheading: `events about Amazon?`,
-      message: `What are some recent events about Amazon?`
+      subheading: `events about Ethereum?`,
+      message: `What are some recent events about Ethereum?`
     },
     {
-      heading: `What are Microsoft's`,
-      subheading: 'latest financials?',
-      message: `What are Microsoft's latest financials?`
+      heading: `Compare`,
+      subheading: 'Solana and Sui?',
+      message: `compare solana and sui?`
     },
     {
       heading: 'How is the stock market',
