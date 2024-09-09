@@ -38,7 +38,7 @@ Smarter is an AI-powered chatbot that leverages Llama3 70b on Groq, Vercel’s A
 ## Quickstart
 
 > [!IMPORTANT]
-> To use ChatBot, you can use a hosted version at ([Smarter: An AI Web3 Investment Chatbot])(https://stockbot-powered-by-groq-n8ecs6hwq-bofu2007s-projects.vercel.app/).
+> To use ChatBot, you can use a hosted version at [Smarter: An AI Web3 Investment Chatbot](https://stockbot-powered-by-groq-n8ecs6hwq-bofu2007s-projects.vercel.app/).
 > Alternatively, you can run StockBot locally using the quickstart instructions.
 
 
