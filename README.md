@@ -15,7 +15,7 @@
 
 <br>
 
-[Demo of ChatBot]([https://github.com/user-attachments/assets/a50fa266-5ae9-4869-a37f-599d7db790d9](https://stockbot-powered-by-groq-n8ecs6hwq-bofu2007s-projects.vercel.app/)
+[Demo of ChatBot]([Smarter: An AI Web3 Chatbot](https://stockbot-powered-by-groq-n8ecs6hwq-bofu2007s-projects.vercel.app/)
 > Demo of ChatBot providing relevant, live, and interactive stock charts and interfaces
 
 
@@ -38,7 +38,7 @@ Smarter is an AI-powered chatbot that leverages Llama3 70b on Groq, Vercel’s A
 ## Quickstart
 
 > [!IMPORTANT]
-> To use ChatBot, you can use a hosted version at [Smarter]([https://groq-stockbot.vercel.app/](https://stockbot-powered-by-groq-n8ecs6hwq-bofu2007s-projects.vercel.app/).
+> To use ChatBot, you can use a hosted version at [Smarter]([Smarter: An AI Web3 Investment Chatbot](https://stockbot-powered-by-groq-n8ecs6hwq-bofu2007s-projects.vercel.app/).
 > Alternatively, you can run StockBot locally using the quickstart instructions.
 
 
