@@ -1,12 +1,9 @@
 # Change Log
-All notable changes to this project will be documented in this file.
- 
-The format is based on [Keep a Changelog](http://keepachangelog.com/)
-and this project adheres to [Semantic Versioning](http://semver.org/).
 
- ## [1.1.2] - 2024-08-05
+
+ ## [1.1.2] - 2024-09-09
   
-Add annotations to chart widget, add vercel deploy button, clean dependencies 
+Project Deployment
 
 ### Added
 
@@ -20,9 +17,6 @@ Add annotations to chart widget, add vercel deploy button, clean dependencies
 
  ## [1.1.1] - 2024-07-30
   
-Remove legacy local storage handling of API key in favor of server-side
-
-[GitHub PR](https://github.com/bklieger-groq/stockbot-on-groq/pull/17)
 
 ### Added
 
@@ -43,9 +37,7 @@ Remove legacy local storage handling of API key in favor of server-side
 
 ## [1.1.0] - 2024-07-29
   
-Updated functionality to load GROQ_API_KEY from .env and hide local storage management of API key if provided.
 
-[GitHub PR](https://github.com/bklieger-groq/stockbot-on-groq/pull/15)
 
 ### Added
 
@@ -65,7 +57,7 @@ Updated functionality to load GROQ_API_KEY from .env and hide local storage mana
 
 ## [1.0.0] - 2024-06-26
   
-Initial release of the StockBot project.
+Initial release of the Chatbot project.
 
 ### Added
  
