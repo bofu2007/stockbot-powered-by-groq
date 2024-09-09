@@ -1,6 +1,6 @@
 <h2 align="center">
  <br>
- <img src="/微信图片_20240814161954.png" alt="Smarter: AI ChatBot tool for investments" width="250">
+ <img src="public/微信图片_20240814161954.png" alt="Smarter: AI ChatBot tool for investments" width="250">
  <br>
  <br>
  Smarter: Lightning Fast AI Chatbot that Responds With Live Interactive Crypto&Stock Charts, Financials, News, Screeners, and More 
