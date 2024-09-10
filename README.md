@@ -11,6 +11,7 @@
  <a href="#Overview">Overview</a> •
  <a href="#Features">Features</a> •
  <a href="#Quickstart">Quickstart</a> •
+ <a href="#Pitch">Pitch</a> •
 </p>
 
 <br>
@@ -56,4 +57,5 @@ pnpm dev
 
 Your app should now be running on [localhost:3000](http://localhost:3000/).
 
-
+## Pitch
+[Pitch Deck](https://smarter-chatbot-5en2mj2.gamma.site/)
