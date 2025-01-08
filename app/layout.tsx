@@ -8,6 +8,11 @@ import { Providers } from '@/components/providers'
 import { Header } from '@/components/header'
 import { Toaster } from '@/components/ui/sonner'
 
+import { connect, disconnect } from "get-starknet"
+
+return <button onClick={() => connect()}>Connect wallet</button>
+
+
 export const metadata = {
   metadataBase: process.env.VERCEL_URL
     ? new URL(`https://${process.env.VERCEL_URL}`)
